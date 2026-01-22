@@ -11,7 +11,9 @@ We successfully integrated the TinyLlama chat model into a local web-based inter
 This project was implemented by:
 
 Muhammad Danish
+
 Adila M. Aslam
+
 Ali Ahmed
 
 📄 Research Paper Credit
@@ -74,7 +76,9 @@ Open this link in your browser to use the chatbot.
 Python 3.9
 
 torch>=2.0
+
 transformers>=4.35.0
+
 gradio>=4.13.0
 
 
